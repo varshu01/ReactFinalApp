@@ -11,4 +11,3 @@ const render = (Component) => {
 
 render(App);
 
-export default App;
